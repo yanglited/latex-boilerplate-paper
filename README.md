@@ -4,6 +4,11 @@
 ![https://github.com/tijme/latex-boilerplate-paper/blob/master/.github/preview.pdf](https://github.com/tijme/latex-boilerplate-paper/raw/master/.github/preview.png)
 
 ## Building The Document
+```bash
+sudo apt install make
+sudo apt install texlive-latex-extra
+sudo apt-get install texlive-bibtex-extra biber
+```
 
 **Compile to PDF**
 
